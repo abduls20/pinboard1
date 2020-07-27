@@ -4,13 +4,19 @@
     "description": "Progressive web application demonstration",
     "icons": [
         {
-            "src": "launcher-icon-48.png",
-            "sizes": "48x48",
+            "src": "launcher-icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        
+        {
+            "src": "launcher-icon-256.png",
+            "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "launcher-icon-96.png",
-            "sizes": "96x96",
+            "src": "launcher-icon-152.png",
+            "sizes": "152x152",
             "type": "image/png"
         },
         {
