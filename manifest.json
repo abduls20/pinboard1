@@ -38,6 +38,6 @@
     "start_url": "index.html?source=pwa",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#D433FF",
+    "theme_color": "#9536e3",
     "background_color": "#D433FF"
 }
