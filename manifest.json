@@ -37,6 +37,6 @@
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "coral",
-  "theme_color": "coral"
+  "background_color": "#ba940b",
+  "theme_color": "#ba940b"
 }
