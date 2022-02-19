@@ -4,39 +4,40 @@
     "description": "Progressive web application demonstration",
     "icons": [
         {
-            "src": "launcher-icon-128.png",
+            "src": "/launcher-icon-128.png",
             "sizes": "128x128",
             "type": "image/png"
         },
         
         {
-            "src": "launcher-icon-256.png",
+            "src": "/launcher-icon-256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "launcher-icon-152.png",
+            "src": "/launcher-icon-152.png",
             "sizes": "152x152",
             "type": "image/png"
         },
         {
-            "src": "launcher-icon-144.png",
+            "src": "/launcher-icon-144.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "launcher-icon-192.png",
+            "src": "/launcher-icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "launcher-icon-512.png",
+            "src": "/launcher-icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
    }],
   "lang": "en-US",
   "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#da37e6",
-  "theme_color": "purple"
+  "background_color": "#ab309f",
+  "theme_color": "#ab309f"
 }
