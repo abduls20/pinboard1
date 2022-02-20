@@ -1,7 +1,7 @@
 {
     "theme_color": "#c63cdf",
     "background_color": "#c63cdf",
-    "display": "standalone",
+    "display": "Fullscreen",
     "scope": "/",
     "start_url": "/",
     "name": "Lee Square Pinboard",
