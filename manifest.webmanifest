@@ -1,7 +1,7 @@
 {
     "theme_color": "#c63cdf",
     "background_color": "#c63cdf",
-    "display": "Browser",
+    "display": "Minimal-UI",
     "scope": "/",
     "start_url": "/pinboard1/index.html",
     "name": "Lee Square Pinboard",
